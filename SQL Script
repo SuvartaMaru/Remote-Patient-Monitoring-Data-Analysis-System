@@ -443,5 +443,5 @@ where rpm_consent = 'True'
 ✔ Prevented device loss by **tracking 168 patients inactive for 60+ days**
 ✔ Identified **Pulmonary Fibrosis as highest impacting disease**
 ✔ Gender analysis: Female affected **25% more than male**
-✔ Built **Power BI dashboard** for decision making
+✔ Can Build **Power BI dashboard** for decision making
 
